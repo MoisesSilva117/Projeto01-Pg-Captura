@@ -1,5 +1,5 @@
 # Projeto01-Pg-Captura
- Página de Capttura de dados, projeto do curso Full Stack ProgBr
+ Página de Captura de dados, projeto do curso Full Stack ProgBr
  
  Primero projeto do curso, na qual é feito uma página pra captura de dados para um "Workshop" para uma palestra fictícia.
  
